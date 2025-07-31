@@ -3,7 +3,7 @@ import {useState} from 'react';
 const App = () => {
   return (
     <>
-        <div className='bg-violet-500 w-full h-screen flex justify-center items-center p-[10vw]'>Hello</div>
+        <div className='bg-violet-900 w-full h-screen flex justify-center items-center p-[10vw] fill-cyan-100'>Hello</div>
     </>
   )
 }
